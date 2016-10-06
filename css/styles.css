@@ -7,3 +7,16 @@
 .services section {
   text-align: center;
 }
+
+section{
+	margin-bottom: 24px;
+}
+
+h3,p{
+	text-align: left;
+	margin-left: 20px;
+}
+
+.mytext{
+	margin-top: -3px;
+}
